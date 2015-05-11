@@ -5,7 +5,7 @@
   "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com>",
   "description": "Maître d'",
   "dependencies": {
-    "hodor-hola": "1.0.0",
+    "hodor-hola": "1.0.2",
     "hubot": "2.12.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "0.1.4",
