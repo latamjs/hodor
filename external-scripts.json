@@ -1,7 +1,7 @@
 [
   "hubot-help",
   "hubot-heroku-keepalive",
-  "hubot-google-translate",
+  "hubot-yandex-translate",
   "hubot-redis-brain",
   "hodor-hola"
 ]
